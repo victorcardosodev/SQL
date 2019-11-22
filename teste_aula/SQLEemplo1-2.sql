@@ -1,0 +1,1 @@
+INSERT INTO ambulatorio VALUES(1,1,30)
